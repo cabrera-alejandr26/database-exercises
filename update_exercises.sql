@@ -29,5 +29,5 @@ UPDATE albums
 SET artistName = 'Peter Jackson' WHERE artistName = 'Michael Jackson';
 
 SELECT 'Changing Michael Jackson to Peter Jackson' AS 'Query Seven';
-SELECT artistName FROM albums WHERE artistName = 'Peter Jackson'
+SELECT artistName FROM albums WHERE artistName = 'Peter Jackson';
 
