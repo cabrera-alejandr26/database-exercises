@@ -75,17 +75,4 @@ WHERE DAY(birth_date) = 25
   AND YEAR(hire_date) LIKE '199%'
 ORDER BY DATEDIFF(hire_date, CURDATE());
 
-© 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
 
