@@ -18,7 +18,7 @@ WHERE (first_name = 'Irena'
   AND gender = 'M';
 
 SELECT * FROM employees
-WHERE last_name LIKE 'E%'
+WHERE last_name LIKE 'A%'
    OR last_name LIKE '%e';
 
 SELECT * FROM employees
